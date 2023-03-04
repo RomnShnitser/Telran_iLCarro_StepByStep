@@ -28,12 +28,14 @@ public class TestBase {
 
 	@BeforeMethod
 	public void startTest(Method method){
-		logger.info("Start test " + method.getName());
+		logger.info("\nStart test " + method.getName());
 	}
 
 	@AfterMethod
 	public void stopTest(Method method){
-		logger.info("The End of test " + method.getName());
+		logger.info("The End of test " + method.getName()+"\n=========================================" +
+				"==========================================");
+
 	}
 }
 

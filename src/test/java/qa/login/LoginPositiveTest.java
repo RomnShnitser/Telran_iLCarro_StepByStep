@@ -17,7 +17,8 @@ public class LoginPositiveTest extends TestBase {
 
 	@Test
 	public void loginSuccess() {
-		String email = "romn.shnitser@gmail.com";
+//		String email = "romn.shnitser@gmail.com";
+		String email = "romn.shnitsergmail.com";
 		String password = "$Qwerty12345";
 
 		UserData userData = new UserData()
