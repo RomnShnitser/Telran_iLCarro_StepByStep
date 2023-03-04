@@ -1,0 +1,13 @@
+21:18:21 INFO  manager.ApplicationManager Start test addNewCarPositiveTest
+21:18:25 INFO  manager.ApplicationManager Method 'addNewCarPositiveTest' started
+21:18:29 INFO  manager.ApplicationManager Method 'addNewCar' Stopped
+21:18:29 INFO  manager.ApplicationManager Method added car: 
+Car(address=Tel Aviv, make=KIA, model=Sportage, year=2020, fuel=Petrol, seats=4, carClass=5, carRegNumber=100-200-1105, price=150)
+21:18:29 INFO  manager.ApplicationManager The End of test addNewCarPositiveTest
+21:18:29 INFO  manager.ApplicationManager Start test loginSuccess
+21:18:31 INFO  manager.ApplicationManager The End of test loginSuccess
+21:18:31 INFO  manager.ApplicationManager Start test loginWrongEmailTest
+21:18:36 INFO  manager.ApplicationManager The End of test loginWrongEmailTest
+21:18:36 INFO  manager.ApplicationManager Start test registrationSuccess
+21:18:38 INFO  manager.ApplicationManager registrationPositiveTest with email: jack1118@gmail.com & password: $ABCdef12345
+21:18:39 INFO  manager.ApplicationManager The End of test registrationSuccess
